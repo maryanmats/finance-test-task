@@ -1,5 +1,5 @@
 
-# React Test Task
+# React Test Task by Maryan Mats
 
 ## Requirements
 
